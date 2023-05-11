@@ -1,0 +1,15 @@
+This directory contains the Python code and data necessary for reproducing all simulations using the leaky integrate-and-fire model in Buchholz, Gastone Guilabert, et al. (2023).
+
+- Download the contents of this repository to your machine 
+- Download the folder ‘global_files’ from this dropbox link and unzip it into ‘Buchholz_GastoneGuilabert_2023’:
+	https://www.dropbox.com/sh/h39sudpo4dxgu5z/AADs5JL2VCg-1z0HWKv2lcjea?dl=0
+- Open the file ‘LIF_Simulation_Main_File.py’
+- Go through the script and adjust the directory names where asked (all necessary changes are marked by ‘TODO’ comments)
+- all other scripts are called from within this file
+
+- in Part 1, all files are prepared that are necessary to run the simulations
+	- follow all steps in Part 1 chronologically
+In Part 2, the actual simulations are run and the resulting data are analyzed and plotted
+	- follow the instructions and run one experiment at a time
+
+- for questions regarding the code, please contact the corresponding author.
